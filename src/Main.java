@@ -12,9 +12,7 @@ public class Main {
         task8();
 
     }
-
-
-
+    // Домашнее задание №3
 
     public static void task1 () {
         System.out.println("Задача 1");
